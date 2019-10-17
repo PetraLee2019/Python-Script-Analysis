@@ -26,11 +26,11 @@ Result:
 Create a Python script to analyze and modernize the vote-counting process for a small, rural town using a set of poll data called [election_data.csv]. The dataset is composed of three columns: Voter ID, County, and Candidate.
 
 The Python script will analyze the votes and calculate each of the following:
-The total number of votes cast
-A complete list of candidates who received votes
-The percentage of votes each candidate won
-The total number of votes each candidate won
-The winner of the election based on popular vote
+- The total number of votes cast
+- A complete list of candidates who received votes
+- The percentage of votes each candidate won
+- The total number of votes each candidate won
+- The winner of the election based on popular vote
 Result:
   ```
   Election Results
