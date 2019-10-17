@@ -9,6 +9,7 @@ The Python script will analyze the financial records to calculate each of the fo
 - The average change in "Profit/Losses" between months over the entire period
 - The greatest increase in profits (date and amount) over the entire period
 - The greatest decrease in losses (date and amount) over the entire period
+
 Result:
   ```
   Financial Analysis
@@ -31,6 +32,7 @@ The Python script will analyze the votes and calculate each of the following:
 - The percentage of votes each candidate won
 - The total number of votes each candidate won
 - The winner of the election based on popular vote
+
 Result:
   ```
   Election Results
