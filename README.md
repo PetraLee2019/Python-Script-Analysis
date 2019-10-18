@@ -1,4 +1,4 @@
-## Python Scripts Analyzing Financial Records and Voting Results
+## Python Scripts Analysis for Financial Records and Voting Results
 ## PyBank - Background
 ![alt tag](https://github.com/PetraLee2019/Python-Scripts-Analyzing-Financial-Records-and-Voting-Results/blob/master/Images/Financial-Statements.jpg?raw=true)
 Create a Python script to analyze the financial records of a company that will be provided as data set called [budget_data.csv]. The dataset is composed of two columns: Date and Profit/Losses.
