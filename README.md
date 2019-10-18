@@ -1,4 +1,4 @@
-## PyBank - Background
+# PyBank - Background
 ![alt tag](https://github.com/PetraLee2019/Python-Scripts-Analyzing-Financial-Records-and-Voting-Results/blob/master/Images/Financial-Statements.jpg?raw=true)
 Create a Python script to analyze the financial records of a company that will be provided as data set called [budget_data.csv]. The dataset is composed of two columns: Date and Profit/Losses.
 
@@ -19,9 +19,7 @@ Result:
   Greatest Increase in Profits: Feb-2012 ($1926159)
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   ```
-
-
-## PyPoll - Background
+# PyPoll - Background
 ![alt tag](https://github.com/PetraLee2019/Python-Scripts-Analyzing-Financial-Records-and-Voting-Results/blob/master/Images/polling-station.jpg?raw=true)
 Create a Python script to analyze and modernize the vote-counting process for a small, rural town using a set of poll data called [election_data.csv]. The dataset is composed of three columns: Voter ID, County, and Candidate.
 
